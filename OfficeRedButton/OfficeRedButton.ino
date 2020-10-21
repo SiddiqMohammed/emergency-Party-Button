@@ -34,6 +34,7 @@ int k = 0;
 
 int seekState = 0;
 
+
 long prev = 0;
 int buttonState = 0;  // 0 = not pressed   --- 1 = long pressed --- 2 short pressed
 int YOUR_RESET_BUTTON_PIN = 5;
